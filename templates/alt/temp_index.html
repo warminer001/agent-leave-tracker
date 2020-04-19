@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'alt/style.css' %}">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <title>Document</title>
+</head>
+<body>
+    <!-- <div class='table-db'>
+        <h1>Employee Database</h1>
+    </div> -->
+    <div class='table-db'>
+        <table>
+            <tr class='t-cell'>
+                <th class='t-cell'>Employee ID</th>
+                <th class='t-cell'>IEX ID</th>
+                <th class='t-cell'>Employee Name</th>
+                <th class='t-cell'>Wave</th>
+                <th class='t-cell'>Team Leader</th>
+                <th class='t-cell'>Manager</th>
+                <th class='t-cell'>Hire Date</th>
+            </tr>
+            {% for employee in employees %}
+            <tr>
+                <td class='t-cell'>{{ employee.employee_id }}</td>
+                <td class='t-cell'>{{ employee.employee_iex_id }}</td>
+                <td class='t-cell'>{{ employee.employee_name }}</td>
+                <td class='t-cell'>{{ employee.employee_wave }}</td>
+                <td class='t-cell'>{{ employee.employee_team_leader }}</td>
+                <td class='t-cell'>{{ employee.employee_manager }}</td>
+                <td class='t-cell'>{{ employee.employee_hire_date }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+</body>
+</html>

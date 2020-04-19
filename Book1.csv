@@ -1,0 +1,444 @@
+EID,IEX ID,Employee Name,Wave,Team Leader,Manager,Hire Date
+100572735,3011886,"Baronia, Mel Bryan",1.1,"Duran, Maria Lyn","Dela Cruz, Frederic",2011-09-05
+100647363,3011892,"Caballero, Albert Hans",1.1,"Dela Cruz, Frederic","Dela Cruz, Frederic",2012-08-22
+100591091,3011889,"Matias, April Cazarra",1.2,"Go, Albert","Lagos, James",2011-11-14
+100649748,3011982,"Nocito, Maria Kirsty",2.1,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2012-09-03
+100581841,3011979,"Gabas, Doren",2.2,"Go, Albert","Lagos, James",2011-10-10
+100607057,3011980,"Pulanco, Mary Jun",2.2,"Duran, Maria Lyn","Dela Cruz, Frederic",2012-02-13
+100635791,3009315,"Valmeo, Irwin",3.2,"Go, Albert","Lagos, James",2012-07-02
+100618085,3009313,"Orense, Mark Angelo",3.3,"Dioquino, Medward","Dioquino, Medward",2012-04-09
+100627060,3009314,"Roxas, Gizelle May",3.3,"Duran, Maria Lyn","Dela Cruz, Frederic",2012-05-21
+100702870,3009757,"Avila, Marivic",5,"Tavanlar, Nikki","Lagos, James",2013-05-13
+100703150,3009918,"Masangcay, Kelvin",5,"Geronimo, Arjay","Dioquino, Medward",2013-05-13
+100710025,3011322,"Waclin, Janet",7,"Galceran, Millessa Michelle","Lagos, James",2013-06-10
+100711845,3011514,"Ariola, Geraldine",8,"Galceran, Millessa Michelle","Lagos, James",2013-06-17
+100713872,3011572,"Sumacbay, Chevie Charle",9,"Duran, Maria Lyn","Dela Cruz, Frederic",2013-06-24
+100717880,3012343,"Isleta, Ronna",11,"Geronimo, Arjay","Dioquino, Medward",2013-07-08
+100723048,3010339,"Melo, Anna Lisa",14,"Tavanlar, Nikki","Lagos, James",2013-07-29
+100724688,3010308,"Ubaldo, Christopher Ryann",15,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2013-08-05
+100739182,3012131,"Garcia, Sherwin",18,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2013-10-07
+100739167,3012104,"Ranches, Ma. Socorro Perpetua Jovelle",18,"Canlobo, Leah","Agravante, Donnabel",2013-10-07
+100749815,3009417,"Cadugo, Gert Imann",21,"Geronimo, Arjay","Dioquino, Medward",2013-11-12
+100753981,3010535,"Bendecio, Joseph",23,"Pascual, Edgardo","Dioquino, Medward",2013-12-02
+100754463,3010671,"Ramirez, Ritchie",23,"Geronimo, Arjay","Dioquino, Medward",2013-12-02
+100755410,3010857,"Aguila, Beverly Joy",24,"Duran, Maria Lyn","Dela Cruz, Frederic",2013-12-09
+100755407,3010856,"Lacusong, Vivian",24,"Comsti, Jose Mari","Dela Cruz, Frederic",2013-12-09
+100692971,3010231,"Ungriano, Ladylyn",25,"Pascual, Edgardo","Dioquino, Medward",2013-04-29
+100763771,3012682,"Rey, Dricelle Anne",27,"Duran, Maria Lyn","Dela Cruz, Frederic",2014-01-27
+100652848,3011234,"Angulo, Cristel Joy",28,"Tavanlar, Nikki","Lagos, James",2012-09-17
+100665559,3010310,"Regala, Romilyn",28,"Ungriano, Ladylyn","Pascual, Edgardo",2012-11-12
+100676706,3012119,"Sigua, Mildred",28,"Ungriano, Ladylyn","Pascual, Edgardo",2013-01-21
+100706830,3011049,"Solano, Julie Ann",28,"Duran, Maria Lyn","Dela Cruz, Frederic",2013-05-27
+100765179,3009104,"Gadais, Joel Anthony",29,"Geronimo, Arjay","Dioquino, Medward",2014-02-03
+100565961,3009728,"Nacino, Neil",31,"Santos, Arlene","Dioquino, Medward",2014-02-24
+100650056,3010425,"Maglente, Ryan",33,"Galceran, Millessa Michelle","Lagos, James",2014-04-07
+100392344,3012017,"Romorosa, Christelo",34,"Galceran, Millessa Michelle","Lagos, James",2009-02-19
+100795552,3012115,"Campit, Jeffry",35,"Canlobo, Leah","Agravante, Donnabel",2014-06-30
+100798859,3012408,"Abad, Geoffrey",36,"Go, Albert","Lagos, James",2014-07-14
+100798882,3012412,"Ajero, Jarvin",36,"Galceran, Millessa Michelle","Lagos, James",2014-07-14
+100739213,3012444,"Manasan, Hilarion",36,"Galceran, Millessa Michelle","Lagos, James",2013-10-07
+100800698,3009272,"Facunla, Francis",37,"Canlobo, Leah","Agravante, Donnabel",2014-07-21
+100801153,3009354,"Lin, Wihl Micoh",37,"Galceran, Millessa Michelle","Lagos, James",2014-07-21
+100679985,3009851,"Obedoza, Roliebel",38,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2013-02-04
+100807215,3010208,"Barrameda, Elenor",39,"Tavanlar, Nikki","Lagos, James",2014-08-18
+100807224,3010218,"Jose, Joven Christian",39,"Go, Albert","Lagos, James",2014-08-18
+100807232,3010221,"Viernes, Michael",39,"Galceran, Millessa Michelle","Lagos, James",2014-08-18
+100809473,3010721,"Corre, Abegail Joyce",40,"Canlobo, Leah","Agravante, Donnabel",2014-09-01
+100809474,3010722,"Dela Cruz, Lovely",40,"Esma, Ingrid Viola","Dela Cruz, Frederic",2014-09-01
+100812829,3009239,"Malunes, Allan",41,"Galceran, Millessa Michelle","Lagos, James",2014-09-15
+100812834,3009256,"Roca, Arn",41,"Galceran, Millessa Michelle","Lagos, James",2014-09-15
+100812820,3009228,"Rosatazo, Berg",41,"Galceran, Millessa Michelle","Lagos, James",2014-09-15
+100812827,3009235,"Tandog, Anthony",41,"Galceran, Millessa Michelle","Lagos, James",2014-09-15
+100812823,3009231,"Fontamillas, Kirby",41,"Galceran, Millessa Michelle","Lagos, James",2014-09-15
+100816865,3011607,"Tambolero, Rogie Lou",42,"Dioquino, Medward","Dioquino, Medward",2014-09-29
+100820463,3012150,"Baculo, Ruel",43,"Alaba, Joy Kristine","Dela Cruz, Frederic",2014-10-13
+100824382,3011754,"Baradero, Trizzon",44,"Comsti, Jose Mari","Dela Cruz, Frederic",2014-10-27
+100828009,3012518,"Casamina, Dexter",45,"Geronimo, Arjay","Dioquino, Medward",2014-11-10
+100827986,3012515,"Espiritu, Ryan",45,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2014-11-10
+100830505,3012649,"Aspiras, Robin John",46,"Galceran, Millessa Michelle","Lagos, James",2014-11-17
+100830515,3012654,"Bulatao, Clint",46,"Go, Albert","Lagos, James",2014-11-17
+100830526,3012656,"Santiago, Abel",46,"Canlobo, Leah","Agravante, Donnabel",2014-11-17
+100835766,3009705,"De Guzman, Rose Ann",48,"Galceran, Millessa Michelle","Lagos, James",2014-12-08
+100835780,3009711,"Espinosa, Joy Grace",48,"Go, Albert","Lagos, James",2014-12-08
+100851881,3012322,"Donque, Rhonel",50,"Galceran, Millessa Michelle","Lagos, James",2015-02-23
+100852505,3012472,"Garcia, Marvin",50,"Galceran, Millessa Michelle","Lagos, James",2015-02-23
+100846343,3009146,"Macabante, Diane",50,"Go, Albert","Lagos, James",2015-02-23
+100710070,3010324,"Aguirre, Erdie",51,"Tavanlar, Nikki","Lagos, James",2015-04-06
+100769236,3010325,"Ragay, Angel",52,"Geronimo, Arjay","Dioquino, Medward",2015-04-13
+100866557,3011331,"De Honor, Jomar",53,"Geronimo, Arjay","Dioquino, Medward",2015-04-27
+100866550,3011324,"Fernandez, Sonny Boy",53,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2015-04-27
+100866542,3011318,"Fungo , Weldy ",53,"Geronimo, Arjay","Dioquino, Medward",2015-04-27
+100866554,3011327,"Gayatgay, John Francis",53,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2015-04-27
+100866514,3011309,"Perez, Romeo Jr",53,"Santos, Arlene","Dioquino, Medward",2015-04-27
+100867929,3011612,"Cecilio, Mark Jefferson",54,"Geronimo, Arjay","Dioquino, Medward",2015-05-04
+100867925,3011611,"De Castro, Gerard Christopher",54,"Comsti, Jose Mari","Dela Cruz, Frederic",2015-05-04
+100867959,3011632,"De Real, Carrise Ellaiza",54,"Comsti, Jose Mari","Dela Cruz, Frederic",2015-05-04
+100867924,3011606,"Dela Cruz, Ariel",54,"Comsti, Jose Mari","Dela Cruz, Frederic",2015-05-04
+100866520,3011313,"Deseo, Niko",54,"Geronimo, Arjay","Dioquino, Medward",2015-05-04
+100867960,3011633,"Domingo, April",54,"Geronimo, Arjay","Dioquino, Medward",2015-05-04
+100866563,3011346,"Lunar, Maria Lorenza",54,"Canlobo, Leah","Agravante, Donnabel",2015-05-04
+100869463,3012135,"Abatayo, Riel",55,"Geronimo, Arjay","Dioquino, Medward",2015-05-11
+100869461,3012133,"Bacsal, Ryan",55,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2015-05-11
+100867941,3011617,"Bugayong, Don Alfred",55,"Geronimo, Arjay","Dioquino, Medward",2015-05-11
+100869452,3012126,"Penaflorida, Vanerie",55,"Duran, Maria Lyn","Dela Cruz, Frederic",2015-05-11
+100869469,3012137,"Rugas, Michael",55,"Duran, Maria Lyn","Dela Cruz, Frederic",2015-05-11
+100871420,3009096,"Bito, Arwin",56,"Tavanlar, Nikki","Lagos, James",2015-05-18
+100873565,3009980,"Ritualo, Jesse James",57,"Comsti, Jose Mari","Dela Cruz, Frederic",2015-05-25
+100873578,3009989,"Salcedo, Hegino",57,"Duran, Maria Lyn","Dela Cruz, Frederic",2015-05-25
+100873569,3009982,"Aquino, Cyril",57,"Canlobo, Leah","Agravante, Donnabel",2015-05-25
+100875275,3010458,"Basuel, Christian",58,"Comsti, Jose Mari","Dela Cruz, Frederic",2015-06-01
+100875269,3010455,"Mamuyac, Mario",58,"Poblete, Ian","Dela Cruz, Frederic",2015-06-01
+100863633,3009194,"Santiago, John Mark",58,"Tavanlar, Nikki","Lagos, James",2015-04-14
+100875270,3010457,"Amilano, Julie Ann Monique",58,"Tavanlar, Nikki","Lagos, James",2015-06-01
+100877862,3011534,"Baclayon, Glecyvil",59,"Poblete, Ian","Dela Cruz, Frederic",2015-06-08
+100877105,3011156,"Quillosa, Novy Mar",59,"Tavanlar, Nikki","Lagos, James",2015-06-08
+100878409,3011831,"Arcega, Jecelline",60,"Comsti, Jose Mari","Dela Cruz, Frederic",2015-06-15
+100878408,3011828,"Bote, Arvin",60,"Comsti, Jose Mari","Dela Cruz, Frederic",2015-06-15
+100875283,3010475,"Fajardo, Cyryl Herald",60,"Tavanlar, Nikki","Lagos, James",2015-06-01
+100878416,3011836,"Leron, Claire",60,"Bacani, Cheysel Mae","Dela Cruz, Frederic",2015-06-15
+100878406,3011825,"Pletado, Abraham Joseph",60,"Comsti, Jose Mari","Dela Cruz, Frederic",2015-06-15
+100878412,3011832,"Romero, Jonalyn ",60,"Comsti, Jose Mari","Dela Cruz, Frederic",2015-06-15
+100878402,3011817,"Santos, Kimberlie",60,"Comsti, Jose Mari","Dela Cruz, Frederic",2015-06-15
+100879627,3012277,"Valeza, Maria Odessa",60,"Comsti, Jose Mari","Dela Cruz, Frederic",2015-06-15
+100878426,3011842,"Vecino, Roumel ",60,"Bacani, Cheysel Mae","Dela Cruz, Frederic",2015-06-15
+100882298,3012932,"Arriola, Mark Rommel",61,"Canlobo, Leah","Agravante, Donnabel",2015-06-29
+100882289,3012830,"Diaz, Marh Jonel",61,"Canlobo, Leah","Agravante, Donnabel",2015-06-29
+100883417,3012959,"Eclevia, Abilene",61,"Canlobo, Leah","Agravante, Donnabel",2015-06-29
+100882315,3012934,"Mercado, Lara Mari",61,"Dioquino, Medward","Dioquino, Medward",2015-06-29
+100882300,3012933,"Santos, Gerald John",61,"Canlobo, Leah","Agravante, Donnabel",2015-06-29
+100863037,3010840,"Bulaun, Mary Grace",62,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2015-04-13
+100861625,3010382,"Fernandez, Rikka",62,"Canlobo, Leah","Agravante, Donnabel",2015-04-13
+100863250,3010978,"Ramos, Baby Linda",62,"Lozano, Jim","Agravante, Donnabel",2015-04-13
+100863042,3010841,"Robrigado, Rizza",62,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2015-04-13
+100884251,3012976,"Acabado, Arjay",63,"Ungriano, Ladylyn","Pascual, Edgardo",2015-07-06
+100882317,3012935,"Fenellere, Rosemarie",63,"Ungriano, Ladylyn","Pascual, Edgardo",2015-07-06
+100884250,3012975,"Racelis, Joyce Ann",63,"Ungriano, Ladylyn","Pascual, Edgardo",2015-07-06
+100884257,3012977,"Buraay, Michael Gerald",63,"Ungriano, Ladylyn","Pascual, Edgardo",2015-07-06
+100886325,3013006,"Gianan, Charles",64,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2015-07-13
+100810345,3013005,"Mendez, Renz Aldyson",64,"Canlobo, Leah","Agravante, Donnabel",2015-07-13
+100887103,3013030,"Revoltar, John Paul",64,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2015-07-13
+100905145,3010015,"Gagarin, Ronald John",65,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2015-09-21
+100907590,3010154,"Basco, Lawrence Christopher",66,"Duran, Maria Lyn","Dela Cruz, Frederic",2015-10-05
+100907601,3010152,"Magallanes, Jennifer",66,"Duran, Maria Lyn","Dela Cruz, Frederic",2015-10-05
+101001813,3010249,"Aguila, Genevieve",67,"Galceran, Millessa Michelle","Lagos, James",2015-10-12
+101001805,3010246,"Balboa, Angelo",67,"Esma, Ingrid Viola","Dela Cruz, Frederic",2015-10-12
+101014397,3011604,"Evangelista, Jefferson",68,"Comsti, Jose Mari","Dela Cruz, Frederic",2015-11-09
+101017393,3011847,"Fung, Mark John",69,"Go, Albert","Lagos, James",2015-11-16
+101020936,3009520,"Dagan, Mark Loreze",70,"Go, Albert","Lagos, James",2015-11-23
+101022079,3009928,"Dela Cruz Jr, Rodrigo",70,"Go, Albert","Lagos, James",2015-11-23
+101021414,3009707,"Parreno, Joy Pauline",70,"Canlobo, Leah","Agravante, Donnabel",2015-11-23
+101022049,3009932,"Rivera, Rendyl",70,"Comsti, Jose Mari","Dela Cruz, Frederic",2015-11-23
+100781579,3009662,"Espiritu, Abbi Gale",71,"Dioquino, Medward","Dioquino, Medward",2014-04-28
+100654799,3009694,"Rejano, Marietta",71,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2012-09-24
+100665558,3009672,"Villajuan, Leonnie",71,"Duran, Maria Lyn","Dela Cruz, Frederic",2013-01-28
+101009858,3011712,"Cosio, Arthur",72,"Esma, Ingrid Viola","Dela Cruz, Frederic",2015-10-27
+101014516,3011628,"Nozal, Hazel",72,"Go, Albert","Lagos, James",2015-11-09
+101014505,3011635,"San Juan, Catherine Jane",72,"Geronimo, Arjay","Dioquino, Medward",2015-11-09
+101014525,3011627,"Sangrenis, Rainiel",72,"Go, Albert","Lagos, James",2015-11-09
+101022605,3010123,"Corpuz, Alberto Jr.",73,"Canlobo, Leah","Agravante, Donnabel",2015-11-30
+101022649,3010125,"Delos Santos, Reina Lyn",73,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2015-11-30
+100662863,3010723,"de Leon, Whilma Victorina",74,"Comsti, Jose Mari","Dela Cruz, Frederic",2012-10-29
+101024055,3010779,"Samparada, Nilo",74,"Go, Albert","Lagos, James",2015-11-30
+101025761,3011610,"Bin Haji Khalid, Soriano",75,"Go, Albert","Lagos, James",2015-12-07
+101025887,3011608,"Carreon, Robin",75,"Tavanlar, Nikki","Lagos, James",2015-12-07
+101025907,3011613,"Rellora, Renz Zyryl ",75,"Go, Albert","Lagos, James",2015-12-07
+101034833,3011475,"Aquino, Michael John",76,"Go, Albert","Lagos, James",2016-01-18
+100764491,3012040,"Magpusao, Evelyn ",76,"Galceran, Millessa Michelle","Lagos, James",2014-01-28
+101032687,3011478,"Navarro, Loren ",76,"Comsti, Jose Mari","Dela Cruz, Frederic",2016-01-18
+101036982,3012334,"Concio, Kathleen",76,"Go, Albert","Lagos, James",2016-01-20
+100872047,3009376,"Angeles, Gabriel",77,"Poblete, Ian","Dela Cruz, Frederic",2015-05-18
+100830682,3012657,"Caoile, Joshua Anthony",77,"Duran, Maria Lyn","Dela Cruz, Frederic",2014-11-17
+100861608,3010376,"Gagarino, Rimar",77,"Poblete, Ian","Dela Cruz, Frederic",2015-04-07
+100717727,3012330,"Irinco, Lyra",77,"Duran, Maria Lyn","Dela Cruz, Frederic",2013-07-08
+100748697,3009105,"Rigunan, Grazielle",77,"Poblete, Ian","Dela Cruz, Frederic",2013-11-11
+101062213,3010546,"Ramirez, Alvin John",78,"Ungriano, Ladylyn","Agravante, Donnabel",2016-04-10
+100884271,3012978,"Attolba, Michelle Anne Rose Pauline",79,"Lozano, Jim","Agravante, Donnabel",2015-07-06
+101001821,3010391,"Landoy, Regiefel",79,"Tavanlar, Nikki","Lagos, James",2015-10-05
+100713855,3011571,"Alday, Amira",79,"Lozano, Jim","Agravante, Donnabel",2013-06-24
+100880454,3012522,"Janolo, Karla Mae",79,"Lagos, James","Lagos, James",2015-06-22
+100880116,3012418,"Banatao, Melvin",79,"Go, Albert","Lagos, James",2015-06-22
+100679507,3012235,"Ramento, James Patrick",79,"Lozano, Jim","Agravante, Donnabel",2013-01-28
+101064666,3010952,"Abrera, Ma Joey Anne",80,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2016-04-17
+101065960,3011118,"Espinola, Maisie Abigail",80,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2016-04-17
+101064673,3010725,"Lucena, Rheyland",80,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2016-04-17
+101067550,3011421,"Albano, Jorel Stephen",81,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-04-24
+101067556,3011558,"Cruz, Mark Anthony",81,"Chua, Louvenel","Pascual, Edgardo",2016-04-24
+101067984,3011602,"Maningas, Benz Erick",81,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-04-24
+101068579,3011643,"Songco, Yvander Abram",81,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-04-24
+101068577,3011645,"Navarro, Jean",81,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-04-24
+101068578,3011652,"Negapatan, Marlon James",81,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-04-24
+101068576,3011653,"Geronimo, Harold",81,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-04-24
+101008369,3011623,"Rivera, Reden Joseph",81,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-04-24
+101076305,3012926,"Gonzales, Merlin",83,"Comsti, Jose Mari","Dela Cruz, Frederic",2016-05-15
+101076747,3012953,"Sarmiento, Jess Anthony",83,"Esma, Ingrid Viola","Dela Cruz, Frederic",2016-05-15
+101076128,3012937,"Tayamen, John Novi",83,"Alaba, Joy Kristine","Dela Cruz, Frederic",2016-05-15
+100886004,3012880,"Viñas, Mark Russel",83,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2016-05-15
+101081298,3013143,"Amoranto, Mark Kevin",85,"Ungriano, Ladylyn","Agravante, Donnabel",2016-05-29
+101082067,3013163,"Isla, Elizabeth",85,"Ungriano, Ladylyn","Agravante, Donnabel",2016-05-29
+100884315,3012979,"Hizon, Zenette",63,"Ungriano, Ladylyn","Pascual, Edgardo",2015-07-06
+100755426,3010868,"Urbano, Angelyn",24,"Esma, Ingrid Viola","Dela Cruz, Frederic",2013-12-09
+100828008,3012517,"Rusit, Claren",45,"Esma, Ingrid Viola","Dela Cruz, Frederic",2014-11-10
+101084088,3013222,"Campos, Jonnel",86,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2016-06-05
+101029725,3013255,"Carasig, Louie Jerome",86,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-06-05
+101083700,3013235,"Gabriel, Jessamin",86,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-06-05
+100869910,3013212,"Tabalingcos, Robee",86,"Poblete, Ian","Dela Cruz, Frederic",2016-06-05
+101085077,3013281,"Tan, Keissylyn",86,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2016-06-05
+101088711,3013399,"Oliver, Lothis Chin",87,"Ungriano, Ladylyn","Pascual, Edgardo",2016-06-19
+101088716,3013393,"Dela Cruz, Lexer Shieldon",87,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2016-06-19
+101088704,3013409,"Santos, Jaypee",87,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2016-06-19
+101089530,3013404,"Montanez, Mary Ann",87,"Ungriano, Ladylyn","Pascual, Edgardo",2016-06-19
+101089273,3013402,"Quilit, CherryLen",87,"Poblete, Ian","Dela Cruz, Frederic",2016-06-19
+101090473,3013473,"Mirador, Joseph",87,"Go, Albert","Lagos, James",2016-06-19
+100783530,3013467,"Vasquez, John Mark",87,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2014-05-05
+101090526,3013468,"Baradillo, Hannah Jessa",87,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2016-06-19
+101093764,3009301,"Bautista, Eugene Paul",88,"Poblete, Ian","Dela Cruz, Frederic",2016-06-28
+101093364,3009234,"Garcia , Miguel Francisco ",88,"Ungriano, Ladylyn","Pascual, Edgardo",2016-06-27
+424185,3009244,"Miranda, Michael",88,"Poblete, Ian","Dela Cruz, Frederic",2016-06-27
+101093375,3009227,"Renato, Joshua",88,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-06-27
+101091718,3009141,"Soriano, Karim",88,"Chua, Louvenel","Pascual, Edgardo",2016-06-27
+101099520,3009670,"Del Rosario, Ivan",89,"Duran, Maria Lyn","Dela Cruz, Frederic",2016-07-17
+101101901,3009888,"Dimamay, Eric David",89,"Duran, Maria Lyn","Dela Cruz, Frederic",2016-07-17
+101099628,3009693,"Laguerta, Jason",89,"Duran, Maria Lyn","Dela Cruz, Frederic",2016-07-17
+101099624,3009692,"Loquiño, Bernard",89,"Go, Albert","Lagos, James",2016-07-17
+101099518,3009690,"Sodela, Christian ",89,"Go, Albert","Lagos, James",2016-07-17
+100858531,3010009,"Esguerra, Arwin",91,"Pascual, Edgardo","Pascual, Edgardo",2016-07-25
+101102956,3009907,"Manglallan, Aldrin Brian",91,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-07-25
+100898033,3010190,"Revillo, John Henry",91,"Bendecio, Joseph","Pascual, Edgardo",2015-08-26
+101108963,3010296,"Berroya, Donprince Theo",92,"Duran, Maria Lyn","Dela Cruz, Frederic",2016-08-08
+101067979,3011583,"Isla, Erika Lois",92,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2016-08-08
+101108913,3010327,"Ramirez, Ramil",92,"Lozano, Jim","Agravante, Donnabel",2016-08-08
+101116241,3010816,"Auditor, Alberto",93,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2016-08-29
+101116264,3010852,"Celiz, Marlon",93,"Canlobo, Leah","Agravante, Donnabel",2016-08-29
+101116735,3010851,"Nakpil, Agatha",93,"Canlobo, Leah","Agravante, Donnabel",2016-08-29
+101119006,3010942,"Publico, Sheryl",93,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2016-08-29
+101110393,3010398,"Aganon, Clement Angelo",93,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2016-08-29
+101116247,3010790,"Caseñas, Alistair Jephte",93,"Comsti, Jose Mari","Dela Cruz, Frederic",2016-08-29
+101116271,3010858,"Ilagan, Dolores",93,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2016-08-29
+101118998,3010948,"Meneses, Mat Lawrence",93,"Comsti, Jose Mari","Dela Cruz, Frederic",2016-08-29
+100687460,3011064,"Salazar, Rizalyn",93,"Comsti, Jose Mari","Dela Cruz, Frederic",2013-03-11
+101109873,3010384,"Ortiz, Clarina",93,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2016-08-08
+100828826,3010835,"Asilo, Jeffrey",93,"Esma, Ingrid Viola","Dela Cruz, Frederic",2016-08-29
+100819447,3011184,"Abulencia, Benjamin Jr.",94,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-09-11
+101121915,3011215,"Arceo, Mary Grace",94,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-09-11
+101121890,3011170,"Bongalos, Bernadette",94,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-09-11
+101124881,3011594,"Del Mundo, John John",94,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-09-11
+101122627,3011178,"Jimenez, Rosanna",94,"Bendecio, Joseph","Lagos, James",2016-09-11
+101121904,3011212,"Lavapie, Kasandra Louise",94,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-09-11
+101121863,3011239,"Macaya, Gieroll",94,"Bendecio, Joseph","Lagos, James",2016-09-11
+101054052,3011206,"Matias, Marilou",94,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-09-11
+101121870,3011203,"Meja, Harline",94,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-09-11
+101121919,3011230,"Mondares, Gideon",94,"Bendecio, Joseph","Lagos, James",2016-09-11
+101116293,3010800,"Mosquete, James Jarome",94,"Geronimo, Arjay","Dioquino, Medward",2016-09-11
+101124902,3011807,"Nedia, Maureen",94,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-09-11
+101122654,3011189,"Ongteco, Joseph Benedict",94,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-09-11
+101122642,3011242,"Rillo, Loriedel",94,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-09-11
+101121866,3011198,"Tizon, Michael Roman",94,"Bendecio, Joseph","Lagos, James",2016-09-11
+101122667,3011211,"Tobias, Elbert Lloyd",94,"Ungriano, Ladylyn","Pascual, Edgardo",2016-09-11
+101124924,3011811,"Vidallo, Mark Cristopher Lawrence",94,"Ungriano, Ladylyn","Pascual, Edgardo",2016-09-11
+101128370,3012080,"Castellano, Saint Irsha",95,"Ungriano, Ladylyn","Agravante, Donnabel",2016-09-26
+101133464,3012484,"Devecais, Klaire Mae",95,"Ungriano, Ladylyn","Agravante, Donnabel",2016-10-03
+101133442,3012486,"Gonzales, Audie",95,"Ungriano, Ladylyn","Pascual, Edgardo",2016-10-03
+101133354,3012442,"Gutierrez, Ryan",95,"Ungriano, Ladylyn","Agravante, Donnabel",2016-10-03
+101129972,3012074,"Imbat, May",95,"Ungriano, Ladylyn","Agravante, Donnabel",2016-09-26
+100899464,3012082,"Jacob, Ronnie",95,"Ungriano, Ladylyn","Agravante, Donnabel",2016-09-26
+101133426,3012494,"Julian, Rea Anne",95,"Ungriano, Ladylyn","Agravante, Donnabel",2016-10-03
+101133350,3012445,"Paraguya, Krystel Ariane",95,"Ungriano, Ladylyn","Agravante, Donnabel",2016-10-03
+100771245,3012078,"Taclas, Richelle",95,"Ungriano, Ladylyn","Agravante, Donnabel",2016-09-26
+101133346,3012451,"Ubiadas, Edrian",95,"Ungriano, Ladylyn","Pascual, Edgardo",2016-10-03
+100907098,3012588,"Bendicio, Joanne",96,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2016-10-10
+101138879,3012697,"Caragatan, Angelica",96,"Comsti, Jose Mari","Dela Cruz, Frederic",2016-10-11
+101136958,3012619,"Dela Cruz, Marieflor",96,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2016-10-10
+101137019,3012637,"Delos Reyes, Ramon",96,"Alaba, Joy Kristine","Dela Cruz, Frederic",2016-10-10
+101137011,3012615,"Pasajol, Raymond",96,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2016-10-10
+101136961,3012638,"Rañola, Ronwald",96,"Trinidad, Theressa Mae Kirsten","Dela Cruz, Frederic",2016-10-10
+101137003,3012607,"Ricafort, Emalyn",96,"Alaba, Joy Kristine","Dela Cruz, Frederic",2016-10-10
+101136970,3012600,"Sanao, Angelyn",96,"Comsti, Jose Mari","Dela Cruz, Frederic",2016-10-10
+101111003,3012603,"Sarongelo, Emily",96,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2016-08-12
+101138891,3012723,"Villarin, Ranniel",96,"Comsti, Jose Mari","Dela Cruz, Frederic",2016-10-11
+101143782,3012839,"Catapang, Jose Albert",97,"Lozano, Jim","Agravante, Donnabel",2016-10-24
+101141673,3012802,"Lucas, Lloyd Kenneth",97,"Ungriano, Ladylyn","Pascual, Edgardo",2016-10-24
+101144183,3012905,"Anselmo, Donnel Cedrick",97,"Ungriano, Ladylyn","Pascual, Edgardo",2016-10-25
+101142927,3012817,"Señires Jr., Bernardo",97,"Lozano, Jim","Agravante, Donnabel",2016-10-24
+101141682,3012776,"Soriano, Lhancer",97,"Lozano, Jim","Agravante, Donnabel",2016-10-24
+101141646,3012780,"Banayat, Alexis",97,"Lozano, Jim","Agravante, Donnabel",2016-10-24
+101141641,3012745,"Atienza, Edziel",97,"Lozano, Jim","Agravante, Donnabel",2016-10-24
+101143785,3012855,"Caballero, Elvira",97,"Ungriano, Ladylyn","Pascual, Edgardo",2016-10-24
+101141669,3012786,"Ladra, Marlo",97,"Lozano, Jim","Agravante, Donnabel",2016-10-24
+101144175,3012900,"Mula, Czarlynn",97,"Ungriano, Ladylyn","Pascual, Edgardo",2016-10-25
+101142931,3012810,"Estacio, Sheryl",98,"Tavanlar, Nikki","Lagos, James",2016-10-24
+101150378,3014142,"Bacolod, Jose Roi",98,"Tavanlar, Nikki","Lagos, James",2016-11-11
+101150377,3014079,"Calleja, Rebecca",98,"Arceo, Cristopher","Pascual, Edgardo",2016-11-11
+101150382,3014138,"Colase, Jessamine Merrie",98,"Arceo, Cristopher","Pascual, Edgardo",2016-11-11
+101150359,3014094,"Collantes, Noel",98,"Pascual, Edgardo","Pascual, Edgardo",2016-11-11
+101150363,3014140,"Desiderio, Jomar",98,"Pascual, Edgardo","Pascual, Edgardo",2016-11-11
+101150409,3014172,"Estaca, Ruzabel",99,"Bendecio, Joseph","Pascual, Edgardo",2016-11-11
+101150442,3013983,"Eusebio, Jason",98,"Arceo, Cristopher","Pascual, Edgardo",2016-11-11
+101150367,3014166,"Lagrimas, Jimboy",98,"Tavanlar, Nikki","Lagos, James",2016-11-11
+101150399,3014046,"Macabuhay, Jhamil",98,"Tavanlar, Nikki","Lagos, James",2016-11-11
+101150356,3014150,"Mojica, Dennis",98,"Arceo, Cristopher","Pascual, Edgardo",2016-11-11
+101150372,3013973,"Morata, Jonalyn",98,"Tavanlar, Nikki","Lagos, James",2016-11-11
+101150388,3014104,"Nicolas, Carlos Benjamin III",98,"Tavanlar, Nikki","Lagos, James",2016-11-11
+101150373,3014132,"Palma, Gemma",98,"Tavanlar, Nikki","Lagos, James",2016-11-11
+101150406,3014147,"Ramos, Kristine",98,"Arceo, Cristopher","Pascual, Edgardo",2016-11-11
+101150392,3014003,"Tubola Jr., Obner",98,"Arceo, Cristopher","Pascual, Edgardo",2016-11-11
+101131435,3014525,"De Castro, John Benedict",98,"Tavanlar, Nikki","Lagos, James",2016-09-28
+101155406,3014389,"Godino, Trixialyn",99,"Lozano, Jim","Agravante, Donnabel",2016-11-25
+101155667,3014393,"Salvaña, Mark Nel",99,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-11-25
+101156673,3014514,"Sta Maria, Bernel",99,"Lozano, Jim","Agravante, Donnabel",2016-11-25
+101156684,3014504,"Venigas, Marianne Claire",99,"Ungriano, Ladylyn","Pascual, Edgardo",2016-11-28
+101155650,3014392,"Bautista, Mark Anthony",99,"Lozano, Jim","Agravante, Donnabel",2016-11-25
+101155419,3014391,"Macaraig, Liezel",99,"Ungriano, Ladylyn","Pascual, Edgardo",2016-11-25
+100508818,3014402,"Muñoz, Prudencio",99,"Arceo, Cristopher","Pascual, Edgardo",2016-11-25
+101155645,3014403,"Umandal, Lorraine",99,"Lozano, Jim","Agravante, Donnabel",2016-11-25
+101155402,3014387,"Lim, Kim",100,"Ollero, Julius Ryan","Santos, Maria Arlene",2016-11-25
+101159159,3014689,"Bautista, Kevin",100,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-12-05
+101159100,3014665,"Borilla, Jerome Alvin",100,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-12-05
+101159103,3014691,"Borja, Edgar",100,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-12-05
+101159106,3014663,"Carvajal, Mark Anthony",100,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-12-05
+101020044,3014698,"Comia, Mary Ellaine",100,"Asequia, Jude Patrick","Morillo, Miguel",2016-12-05
+101159111,3014678,"Daguio, Andrew Louie",100,"Asequia, Jude Patrick","Morillo, Miguel",2016-12-05
+100866991,3014669,"Esteban, Sheryl",100,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2015-04-27
+101141056,3014672,"Fortun, Edgardo",100,"Comsti, Jose Mari","Morillo, Miguel",2016-10-24
+101133434,3014676,"Francisco, Joanna Marie",100,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-12-05
+101131442,3014671,"Infante, Jay Carlo",100,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-09-28
+101159138,3014688,"Pineda, Alexandra Claire",100,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-12-05
+101156169,3014710,"Ramos, Mark Joseph",100,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-11-28
+101130701,3014668,"Rosales, Jed Robert",100,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-09-27
+101159147,3014690,"Vergara, Ana Cecilia",100,"Del Rosario, Rogelio Jr.","Pascual, Edgardo",2016-12-05
+101131429,3014685,"Bello, Roy Vincent",101,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2016-09-28
+101160810,3014795,"Bulado, Jonray",101,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2016-12-12
+101075339,3014936,"Catacutan, John Paulo",101,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2016-05-30
+101161287,3014843,"Concepcion, Nigel Roi",101,"Narra, Norman","Morillo, Miguel",2016-12-12
+101160830,3014816,"Dematera, Al",101,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2016-12-12
+101160790,3014826,"Espeleta, Romeo Jr.",101,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2016-12-12
+101062308,3014902,"Eugenio, Giovanni",101,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2016-12-12
+101160831,3014812,"Fernando, Catherine",101,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2016-12-12
+101161286,3014848,"Hernandez, Katherine",101,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2016-12-12
+101160778,3014828,"Jovellanos, Joseph",101,"Adversario, Revinci Gregg","Santos, Maria Arlene",2016-12-12
+101161681,3014904,"Magalso, Sophia Mara",101,"Narra, Norman","Morillo, Miguel",2016-12-12
+101160808,3014821,"Ragay, Janice",101,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2016-12-12
+100901340,3014937,"Ray John, Gavino",101,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2016-12-12
+101022120,3014849,"Requeza, Antonio Jr.",101,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2016-12-12
+100902664,3005302,"Roque, Rosalie ",101,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2016-09-14
+101136399,3014903,"Tablate, JonJon",101,"Mendoza, Kirk Werner","Dela Cruz, Frederic",2016-10-17
+101161667,3014932,"Vere, Jumar",101,"Narra, Norman","Morillo, Miguel",2016-12-12
+101064998,3015413,"Ardan, LoneilKevin",102,"Arceo, Cristopher","Pascual, Edgardo",2017-01-16
+101166587,3015470,"Baldos, MaryGrace",102,"Arceo, Cristopher","Pascual, Edgardo",2017-01-16
+100866697,3015415,"Cenidoza, Junel",102,"Arceo, Cristopher","Pascual, Edgardo",2017-01-16
+101166557,3015436,"DelosReyes, Jeffrey",102,"Arceo, Cristopher","Pascual, Edgardo",2017-01-16
+100837697,3015417,"Dulay, Teodorico",102,"Arceo, Cristopher","Pascual, Edgardo",2017-01-16
+101166556,3015429,"Enciso, Ednor",102,"Geronimo, Arjay","Morillo, Miguel",2017-01-16
+101166558,3015442,"Francisco, Jyven",102,"Eugenio, Enn Rikko","Santos, Maria Arlene",2017-01-16
+101167610,3015732,"Germino, VirgilioEmmanuel",102,"Arceo, Cristopher","Pascual, Edgardo",2017-01-16
+101166585,3015426,"Lat, AlfredVon",102,"Arceo, Cristopher","Pascual, Edgardo",2017-01-16
+101167906,3015756,"Banasijan, DwaightJosef",102,"Eugenio, Enn Rikko","Santos, Maria Arlene",2017-01-17
+258367,3015484,"Buenaventura, Ariel",102,"Arceo, Cristopher","Pascual, Edgardo",2017-01-16
+101166562,3015483,"Buenviaje, AllyzaJashley",102,"Arceo, Cristopher","Pascual, Edgardo",2017-01-16
+101166605,3015490,"DeJesus, Kimberly",102,"Arceo, Cristopher","Pascual, Edgardo",2017-01-16
+101166565,3015495,"Escanilla, Liza",102,"Arceo, Cristopher","Pascual, Edgardo",2017-01-16
+101166586,3015441,"Estepa, AnnaKristine",102,"Eugenio, Enn Rikko","Santos, Maria Arlene",2017-01-16
+101166572,3015494,"Oliveros, Andrew",102,"Arceo, Cristopher","Pascual, Edgardo",2017-01-16
+101166574,3015448,"Pillos, Michael",102,"Arceo, Cristopher","Pascual, Edgardo",2017-01-16
+101170430,3015986,"Antonio, Danilo",103,"Esma, Ingrid Viola","Dela Cruz, Frederic",2017-01-30
+101129574,3016152,"Borja, Bienjella",103,"Esma, Ingrid Viola","Dela Cruz, Frederic",2017-01-30
+476591,3016056,"Bunyad, Dema Pearly",103,"Esma, Ingrid Viola","Dela Cruz, Frederic",2017-01-30
+101129584,3016140,"Chavez, Francis Ron German",103,"Esma, Ingrid Viola","Dela Cruz, Frederic",2017-01-30
+101016026,3016125,"Dilla, Divina",103,"Esma, Ingrid Viola","Dela Cruz, Frederic",2017-01-30
+101170423,3016062,"Galvan, Roel",103,"Esma, Ingrid Viola","Dela Cruz, Frederic",2017-01-30
+101170441,3016063,"Marquez, Divine Grace",103,"Esma, Ingrid Viola","Dela Cruz, Frederic",2017-01-30
+101170442,3016017,"Mendoza, John Almario III",103,"Esma, Ingrid Viola","Dela Cruz, Frederic",2017-01-30
+476451,3015949,"Rosales, Jonico Aaron",103,"Esma, Ingrid Viola","Dela Cruz, Frederic",2017-01-30
+101159640,3014705,"Velasquez, Pauleen",103,"Esma, Ingrid Viola","Dela Cruz, Frederic",2016-12-05
+101170434,3016038,"Villamarin, Eloisa",103,"Esma, Ingrid Viola","Dela Cruz, Frederic",2017-01-30
+101171345,3016145,"Lim, Camille Joyce",103,"Gamboa, Jonathan","Santos, Maria Arlene",2017-01-30
+101170440,3015966,"Villamil, Gelbert",103,"Esma, Ingrid Viola","Dela Cruz, Frederic",2017-01-30
+101022607,3016094,"Egnisaban, Efren Jr.",103,"Esma, Ingrid Viola","Dela Cruz, Frederic",2017-01-30
+100693253,3016815,"Andan, Ed llen",106,"Poblete, Ian","Dela Cruz, Frederic",2013-04-29
+100884364,3016837,"Barrion, Maricar",106,"Poblete, Ian","Dela Cruz, Frederic",2015-07-06
+100837153,3016819,"Bejega, Art Christian",106,"Poblete, Ian","Dela Cruz, Frederic",2014-12-15
+101008822,3016831,"Beluan, Ruth",106,"Poblete, Ian","Dela Cruz, Frederic",2015-10-12
+100701278,3016835,"Briones, Ma Concepcion",106,"Poblete, Ian","Dela Cruz, Frederic",2013-05-06
+100884262,3016812,"Cabsaban, Noli",106,"De Belen, Joanna Marie","Santos, Maria Arlene",2015-07-06
+100904665,3016840,"Cerbito, Jeje ",106,"Poblete, Ian","Dela Cruz, Frederic",2015-09-21
+100878464,3016842,"Cogonon, April",106,"Poblete, Ian","Dela Cruz, Frederic",2016-05-24
+100711869,3016838,"Dailo, Jeremie",106,"Poblete, Ian","Dela Cruz, Frederic",2013-06-17
+100710009,3016851,"Del Mundo, Ervin ",106,"Poblete, Ian","Dela Cruz, Frederic",2013-06-10
+100797355,3016847,"Diesta, Mary Anne",106,"Poblete, Ian","Dela Cruz, Frederic",2014-07-07
+100884283,3016824,"Eguillos, Jennylyn ",106,"Poblete, Ian","Dela Cruz, Frederic",2015-07-06
+101078295,3016833,"Gundran, Richelyn",106,"Poblete, Ian","Dela Cruz, Frederic",2016-05-23
+101125602,3016862,"Junio, Eunice",106,"Poblete, Ian","Dela Cruz, Frederic",2016-09-19
+100654725,3016813,"Magtibay, Vanessa Zyrell",106,"Poblete, Ian","Dela Cruz, Frederic",2012-09-24
+101166563,3015452,"Busto, Gemma",105,"Arceo, Cristopher","Pascual, Edgardo",2017-01-16
+428152,3004741,"Alonso, Edmar II",105,"Imperial, Sheena","Pascual, Edgardo",2014-07-30
+100831587,3016802,"Eclarinal, Ruby Jean",105,"Imperial, Sheena","Pascual, Edgardo",2014-11-24
+101148710,3016849,"Garcia, Mikhaela Louisse",105,"Imperial, Sheena","Pascual, Edgardo",2016-11-09
+428162,3004740,"Jimenez, Martin Vincent",105,"Imperial, Sheena","Pascual, Edgardo",2014-07-30
+101133614,3016787,"Mariscotes, Alyssa Marie",105,"Imperial, Sheena","Pascual, Edgardo",2016-10-03
+100853326,3016806,"Monroy, Xylpha Grace",105,"Imperial, Sheena","Pascual, Edgardo",2015-03-02
+100884296,3016774,"Neypes, Jerry Mae",105,"Imperial, Sheena","Pascual, Edgardo",2015-07-06
+101126557,3016853,"Orpilla, Jennifer",105,"Imperial, Sheena","Pascual, Edgardo",2016-09-19
+101133058,3016761,"Picones, Carmelita",105,"Imperial, Sheena","Pascual, Edgardo",2016-10-03
+100671260,3016788,"Pine, John Joseph",105,"Imperial, Sheena","Pascual, Edgardo",2012-12-10
+101096898,3016874,"Ramos, Cate Priel",105,"Imperial, Sheena","Pascual, Edgardo",2016-07-11
+101133066,3016796,"Repuyo, Mariel",105,"Imperial, Sheena","Pascual, Edgardo",2016-10-03
+100811084,3016826,"Reyes, Mark Lester",105,"Imperial, Sheena","Pascual, Edgardo",2014-09-08
+101124101,3016873,"Revesencio, Rochelle",105,"Imperial, Sheena","Pascual, Edgardo",2016-09-15
+100833910,3016846,"Sebastian, Hannah Joy",105,"Imperial, Sheena","Pascual, Edgardo",2014-12-01
+101127737,3016860,"Solomon, Aubrey",105,"Imperial, Sheena","Pascual, Edgardo",2016-09-20
+100833912,3016845,"Tadena, Aileen",105,"Imperial, Sheena","Pascual, Edgardo",2014-12-01
+100726601,3016571,"Asuncion, Aries",104,"Lozano, Jim","Agravante, Donnabel",2017-02-14
+101167608,3015729,"Banzon, Jollie Marie",104,"Lozano, Jim","Agravante, Donnabel",2017-02-13
+101174601,3016590,"Cabrera, Justine",104,"Lozano, Jim","Agravante, Donnabel",2017-02-13
+101035184,3016496,"Calizo, Maurine Lynette",104,"Lozano, Jim","Agravante, Donnabel",2017-02-13
+101174074,3016469,"Candelaria, Angelo Rohn",104,"Olandria, Jonas","Morillo, Miguel",2017-02-13
+101174080,3016516,"Catapat, Vincent Dohn",104,"Lozano, Jim","Agravante, Donnabel",2017-02-13
+100538222,3016468,"Chan, Bruce",104,"Lozano, Jim","Agravante, Donnabel",2017-02-13
+101174605,3016572,"Columna, Michael",104,"Lozano, Jim","Agravante, Donnabel",2017-02-13
+101174067,3016517,"De Leon, Geraldine",104,"Lozano, Jim","Agravante, Donnabel",2017-02-13
+449831,3016497,"Garcia, Christian Carl",104,"Lozano, Jim","Agravante, Donnabel",2017-02-13
+101174085,3016545,"Hermo, Cherry Joy",104,"Lozano, Jim","Agravante, Donnabel",2017-02-13
+101173738,3016484,"Laureto, Aurelia",104,"Lozano, Jim","Agravante, Donnabel",2017-02-13
+101174594,3016548,"Limguangco, Archieval",104,"Joaquin, Charmaine Joyce","Santos, Maria Arlene",2017-02-13
+101174236,3016460,"Mala-atao, Jalal",104,"Lozano, Jim","Agravante, Donnabel",2017-02-13
+101173729,3016456,"Mariñas, Kevin Keith",104,"Lozano, Jim","Agravante, Donnabel",2017-02-13
+101174073,3016446,"Querol, Oliver",104,"Lozano, Jim","Agravante, Donnabel",2017-02-13
+101173739,3016466,"Secillano, Kevin",104,"Lozano, Jim","Agravante, Donnabel",2017-02-13
+100810587,3016457,"Tan, Chino Paulo",104,"Lozano, Jim","Agravante, Donnabel",2017-02-13
+101159982,3016624,"Toledo, Gerwin",104,"Lozano, Jim","Agravante, Donnabel",2017-02-13
+101143216,3015615,"Tirador, Maren Mae",104,"Lozano, Jim","Agravante, Donnabel",2017-02-15
+101179094,3017132,"Acosta, Ronnie",107,"Asequia, Jude Patrick","Morillo, Miguel",2017-02-28
+101178092,3016939,"Alfonso, Marvin",107,"Chua, Louvenel","Morillo, Miguel",2017-02-27
+101178589,3017072,"Cabael, Annabel",107,"Asequia, Jude Patrick","Morillo, Miguel",2017-02-27
+101178061,3016947,"Datangel, Mark Jason",107,"Chua, Louvenel","Morillo, Miguel",2017-02-27
+101178592,3017071,"De Vera, Generom",107,"Asequia, Jude Patrick","Morillo, Miguel",2017-02-27
+101178124,3016994,"Espino, Jim Paul",107,"Asequia, Jude Patrick","Morillo, Miguel",2017-02-27
+101178026,3017014,"Fiegalan, Christian",107,"Asequia, Jude Patrick","Morillo, Miguel",2017-02-27
+101179080,3017128,"Garcia, Danilo Jr.",107,"Chua, Louvenel","Morillo, Miguel",2017-02-28
+101178099,3017046,"Gepiga, Arwillo",107,"Chua, Louvenel","Morillo, Miguel",2017-02-27
+101178018,3016892,"Marquez, Cristina",107,"Chua, Louvenel","Morillo, Miguel",2017-02-27
+101178043,3016955,"Masagca, Sheena Kris",107,"Chua, Louvenel","Morillo, Miguel",2017-02-27
+101178110,3016893,"Mojica, Jan-Ailey",107,"Chua, Louvenel","Morillo, Miguel",2017-02-27
+101178122,3016901,"Ordoñez, John Mclin",107,"Asequia, Jude Patrick","Morillo, Miguel",2017-02-27
+101178586,3017081,"Santiago, Sheilla Marie",107,"Chua, Louvenel","Morillo, Miguel",2017-02-27
+101179086,3017134,"Simon, Richard",107,"Asequia, Jude Patrick","Morillo, Miguel",2017-02-28
+101179085,3017131,"Tambalque, Leo",107,"Asequia, Jude Patrick","Morillo, Miguel",2017-02-28
+101091732,3009138,"Vidad, Arriane Mae",107,"Asequia, Jude Patrick","Morillo, Miguel",2017-02-27
+101178015,3016940,"Villareal, Ella",107,"Chua, Louvenel","Morillo, Miguel",2017-02-27
+101180616,3017435,"Acosta, Hanna Nikaella",109,"Olandria, Jonas","Morillo, Miguel",2017-03-13
+101180654,3017472,"Alejo, Rose Anne",109,"Rayla, Rom Alexis","Morillo, Miguel",2017-03-13
+101180642,3017441,"Alvarez, Ashley Thomas",109,"Olandria, Jonas","Morillo, Miguel",2017-03-13
+101143432,3017227,"Bajande, Mark John",109,"Rayla, Rom Alexis","Morillo, Miguel",2016-10-26
+101106289,3017183,"Candelaria, Francie Angelique",109,"Olandria, Jonas","Morillo, Miguel",2016-08-01
+101143454,3017296,"Co, Mo-Dean Riggs",109,"Rayla, Rom Alexis","Morillo, Miguel",2016-10-26
+101039209,3017512,"Cruz, Roanne",109,"Olandria, Jonas","Morillo, Miguel",2017-03-13
+101182043,3017576,"Dolatre, Jaya Karina",109,"Rayla, Rom Alexis","Morillo, Miguel",2017-03-13
+101178025,3016928,"Echevaria, Dein",109,"Rayla, Rom Alexis","Morillo, Miguel",2017-03-13
+101180632,3017524,"Fernando, Samuel Jr.",109,"Rayla, Rom Alexis","Morillo, Miguel",2017-03-13
+101133167,3017302,"Lorenzo, Odette",109,"Olandria, Jonas","Morillo, Miguel",2016-10-03
+101182033,3017573,"Lucero, Bhea Patrizia",109,"Olandria, Jonas","Morillo, Miguel",2017-03-13
+101095183,3017215,"Mañibo, Janessa Lyn",109,"Rayla, Rom Alexis","Morillo, Miguel",2016-07-04
+100871430,3017416,"Ricafort, Paul Anthony",109,"Olandria, Jonas","Morillo, Miguel",2017-03-13
+101180648,3017420,"Sampang, Dan Lester",109,"Rayla, Rom Alexis","Morillo, Miguel",2017-03-13
+101182039,3017553,"Tamayo, Erick",109,"Olandria, Jonas","Morillo, Miguel",2017-03-13
+101180661,3017540,"Tan, Steven",109,"Olandria, Jonas","Morillo, Miguel",2017-03-13
+101182046,3017601,"Valentin, Angelo",109,"Rayla, Rom Alexis","Morillo, Miguel",2017-03-13

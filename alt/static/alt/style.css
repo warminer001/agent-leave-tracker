@@ -1,0 +1,67 @@
+.btn-custom {
+    width: 150px;
+    margin-left: 66%;
+}
+
+.custom-container {
+    border: 1px solid #ced4da;
+    margin-top: 80px;
+}
+
+body {
+    /* background-color: rgb(0, 242, 250); */
+    background-color: snow;
+}
+
+.t-cell {
+    border: solid;
+    border-width: 0px 1px 1px 1px;
+    text-align: center;
+    font-size: 12px;
+    font-family: Verdana, Tahoma, Geneva, sans-serif;
+}
+
+.col-emp-id {
+    width: 100px;
+}
+
+.col-iex-id {
+    width: 100px;
+}
+
+.col-emp-name, .col-emp-team-lead, .col-emp-manager {
+    width: 20%;
+}
+
+.col-wave {
+    width: 100px;
+}
+
+.col-hire-date {
+    width: 120px;
+}
+
+
+.table-db {
+    border: solid;
+    border-top: 0px;
+    border-left: 1px;
+    border-right: 1px;
+    border-bottom: 1px;
+    background-color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
+
+.nav-style {
+    border: 2px solid;
+    margin-top: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
+
+.nav-link-custom {
+    width: 80px;
+}

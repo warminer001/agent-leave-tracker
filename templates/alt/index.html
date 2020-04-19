@@ -1,0 +1,28 @@
+{% extends 'alt/base.html' %}
+
+{% block content %}
+<div class='table-db'>
+    <table>
+        <tr class='t-cell'>
+            <th class='t-cell'>Employee ID</th>
+            <th class='t-cell'>IEX ID</th>
+            <th class='t-cell'>Employee Name</th>
+            <th class='t-cell'>Wave</th>
+            <th class='t-cell'>Team Leader</th>
+            <th class='t-cell'>Manager</th>
+            <th class='t-cell'>Hire Date</th>
+        </tr>
+        {% for employee in employees %}
+        <tr>
+            <td class='t-cell'>{{ employee.employee_id }}</td>
+            <td class='t-cell'>{{ employee.employee_iex_id }}</td>
+            <td class='t-cell'>{{ employee.employee_name }}</td>
+            <td class='t-cell'>{{ employee.employee_wave }}</td>
+            <td class='t-cell'>{{ employee.employee_team_leader }}</td>
+            <td class='t-cell'>{{ employee.employee_manager }}</td>
+            <td class='t-cell'>{{ employee.employee_hire_date }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+{% endblock %}

@@ -1,0 +1,28 @@
+{% extends 'alt/base.html' %}
+
+{% block content %}
+    <div class='table-db'>
+        <table>
+            <tr class='t-cell'>
+                <th class='t-cell col-emp-id'>Employee ID</th>
+                <th class='t-cell col-iex-id'>IEX ID</th>
+                <th class='t-cell col-emp-name'>Employee Name</th>
+                <th class='t-cell col-wave'>Wave</th>
+                <th class='t-cell col-emp-team-lead'>Team Leader</th>
+                <th class='t-cell col-emp-manager'>Manager</th>
+                <th class='t-cell col-hire-date'>Hire Date</th>
+            </tr>
+            {% for employee in employees %}
+            <tr>
+                <td class='t-cell col-emp-id'><a href="{% url 'employee_id' employee_id=employee.employee_id %}">{{ employee.employee_id }}</a></td>
+                <td class='t-cell col-iex-id'>{{ employee.employee_iex_id }}</td>
+                <td class='t-cell col-emp-name'>{{ employee.employee_name }}</td>
+                <td class='t-cell col-wave'>{{ employee.employee_wave }}</td>
+                <td class='t-cell col-emp-team-lead'>{{ employee.employee_team_leader }}</td>
+                <td class='t-cell col-emp-manager'>{{ employee.employee_manager }}</td>
+                <td class='t-cell col-hire-date'>{{ employee.employee_hire_date|date:'m-d-Y' }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+{% endblock %}
